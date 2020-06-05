@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(184, 184, 184, 0.377);
+    font-family: serif;
+   
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 4%;
+}
+
+label{
+ 
+    font-size: 20px;
+}
+button{
+  width: 45%;
+}
+#alert{
+    font-weight: bold;
+    
+}
+.form-group{
+    margin-bottom: 4%;
+}
+.radio-inline{
+    font-weight: bold;
+}
